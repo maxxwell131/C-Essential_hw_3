@@ -25,6 +25,24 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
+            Pupil pupil1 = new BadPupil();
+            Pupil pupil2 = new GoodPupil();
+
+            ClassRoom class1A = new ClassRoom(pupil1, pupil2);
+
+            class1A.Read();
+            Console.WriteLine(new string('*', 30));
+
+            class1A.Stady();
+            Console.WriteLine(new string('*', 30));
+
+            class1A.Write();
+            Console.WriteLine(new string('*', 30));
+
+            class1A.Relax();
+            Console.WriteLine(new string('*', 30));
+
+            Console.ReadKey();
         }
     }
 }
