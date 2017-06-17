@@ -22,6 +22,15 @@ namespace Task_3
     {
         static void Main(string[] args)
         {
+            //Car myCar = new Car();
+            Plane plane = new Plane(850, 1000000, "12/10/2016");
+
+            plane.NumberOfPassengers = 6;
+            plane.Height = 5000;
+
+            Console.WriteLine("Скорость {0}\n стоимость {1}\n дата выпуска {2}\n высота полета {3}\n кол-во пассаж. {4}\n кол-во колес {5}\n",
+                plane.Speed, plane.Price, plane.ReleaseDate,plane.Height, plane.NumberOfPassengers, plane.Tires.Length);
+            Console.ReadKey();
         }
     }
 }
