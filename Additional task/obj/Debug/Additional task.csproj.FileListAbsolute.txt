@@ -1,0 +1,13 @@
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/bin/Debug/Additional task.exe.config
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/bin/Debug/Additional task.exe
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/bin/Debug/Additional task.pdb
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/obj/Debug/Additional task.csprojResolveAssemblyReference.cache
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/obj/Debug/Additional task.exe
+C:/Users/User/Documents/visual studio 2017/Projects/C-Essential_hw_3/Additional task/obj/Debug/Additional task.pdb
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/bin/Debug/Additional task.exe.config
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/bin/Debug/Additional task.exe
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/bin/Debug/Additional task.pdb
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/obj/Debug/Additional task.csprojResolveAssemblyReference.cache
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/obj/Debug/Additional task.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/obj/Debug/Additional task.exe
+/Users/admin/Downloads/C-Essential_hw_3-master/Additional task/obj/Debug/Additional task.pdb
